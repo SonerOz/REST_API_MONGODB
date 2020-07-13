@@ -1,3 +1,3 @@
 ## Overview
 
-Created a Flask App using CRUD Methods (Rest API) and MongoDB and using POSTMAN test results!
+Created a Flask App using CRUD Methods (Rest API) and MongoDB and used POSTMAN app to test results!
