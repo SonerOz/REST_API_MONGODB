@@ -7,7 +7,7 @@ from werkzeug.security import generate_password_hash, check_password_hash
 app = Flask(__name__)
 
 app.secret_key = "secretkey"
-app.config['MONGO_URI']= "mongodb+srv://SonerOzmese:oAm7nUqNOEBnI5Xt@clustersoner.4shdg.mongodb.net/REST-API?retryWrites=true&w=majority"
+app.config['MONGO_URI']= "mongodb+srv://***********************@clustersoner.4shdg.mongodb.net/REST-API?retryWrites=true&w=majority"
 
 mongo = PyMongo(app)
 
